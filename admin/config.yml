@@ -1,0 +1,29 @@
+# Decap CMS draft configuration. GitHub OAuth must be configured before live login works.
+backend:
+  name: github
+  repo: grabejud/gerald-ong-portfolio
+  branch: main
+
+local_backend: true
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "portfolio_projects"
+    label: "Portfolio Projects (CMS)"
+    label_singular: "Project"
+    folder: "content/projects"
+    create: true
+    extension: "md"
+    format: "frontmatter"
+    slug: "{{slug}}"
+    fields:
+      - { label: "Project title", name: "title", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Water Features", "Retail & Spatial", "Exhibitions & Experiential", "Product Design", "Digital Tools"] }
+      - { label: "Year", name: "year", widget: "string", required: false }
+      - { label: "Location", name: "location", widget: "string", required: false }
+      - { label: "Cover image", name: "cover", widget: "image", required: false }
+      - { label: "Gallery", name: "gallery", widget: "list", required: false, field: { label: "Image", name: "image", widget: "image" } }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Published", name: "published", widget: "boolean", default: false }
+      - { label: "Project description", name: "body", widget: "markdown", required: false }
