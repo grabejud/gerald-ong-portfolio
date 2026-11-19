@@ -1,0 +1,23 @@
+{
+  "order": 2,
+  "slug": "safat-square",
+  "title": "Safat Square Kuwait",
+  "directoryTitle": "Safat Square, Kuwait",
+  "category": "Water Features",
+  "kicker": "KUWAIT · CIVIC WATER FEATURE",
+  "tags": [
+    "MID-2011",
+    "CONCEPT DESIGN",
+    "WATER FEATURE INTEGRATION"
+  ],
+  "summary": "A civic water experience built around Safat Square's monumental structure—layering water curtains, a central high jet and interactive plaza effects.",
+  "cover": "/assets/projects/safat/hero.webp",
+  "backHref": "../index.html#water",
+  "backLabel": "← BACK TO WATER FEATURES",
+  "gallery": [],
+  "body": "\r\n\r\n<figure class=\"project-media project-hero\"><img src=\"../assets/projects/safat/hero.webp\" alt=\"Sunset concept of Safat Square with water curtain, high jet and plaza fountains\" width=\"1672\" height=\"941\" fetchpriority=\"high\"><figcaption><span>Grand water landmark</span><span>Hero concept · sunset</span></figcaption></figure>\r\n<section class=\"project-copy\"><h2>INTENDED EXPERIENCE</h2><p>The proposal combines spectacle, climate relief and public interaction. Layered water curtains give the monument movement and depth; a central high jet rises from a boulder-filled cooling bowl; ground-level effects invite people into the wider plaza.</p></section>\r\n<div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/safat/masterplan.webp\" alt=\"Aerial masterplan concept showing the integrated Safat Square water experience\" width=\"1672\" height=\"941\" loading=\"lazy\"><figcaption><span>Masterplan view</span><span>Integrated public realm</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/safat/water-curtain.webp\" alt=\"Close view of the Safat Square water curtain and central cooling bowl\" width=\"1672\" height=\"941\" loading=\"lazy\"><figcaption><span>Water curtain + high jet</span><span>Cooling bowl and mist</span></figcaption></figure></div>\r\n<div class=\"project-break\"><p class=\"project-kicker\">CONCEPT TO DELIVERY</p><h2>A more compact water strategy for the built square.</h2></div>\r\n<section class=\"project-copy\"><h2>BUILT OUTCOME</h2><p>The completed scheme retained the monument but adopted a more compact water strategy. The smaller water curtain remained and vertical jets were organized within a three-tier pool, while several elements from the wider plaza concept were omitted during delivery.</p></section>\r\n<div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/safat/built-day.webp\" alt=\"Completed Safat Square fountain and monument during the day\" width=\"1536\" height=\"1024\" loading=\"lazy\"><figcaption><span>Actual fountain · daytime</span><span>Built outcome</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/safat/built-night.webp\" alt=\"Completed Safat Square fountain and monument at night\" width=\"1448\" height=\"1086\" loading=\"lazy\"><figcaption><span>Actual fountain · night</span><span>Built outcome</span></figcaption></figure></div>\r\n<a class=\"project-next\" href=\"hael-city.html\"><span>NEXT PROJECT</span><strong>Hael City →</strong></a>\r\n",
+  "titleLines": [
+    "Safat Square",
+    "Kuwait"
+  ]
+}

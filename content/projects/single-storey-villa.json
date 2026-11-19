@@ -1,0 +1,23 @@
+{
+  "order": 14,
+  "slug": "single-storey-villa",
+  "title": "Single-Story Villa Interior",
+  "directoryTitle": "Single-Story Villa",
+  "category": "Retail & Spatial",
+  "kicker": "RESIDENTIAL VISUALIZATION · 2018",
+  "tags": [
+    "3D MODELLING",
+    "INTERIOR VISUALIZATION",
+    "MATERIAL + LIGHTING"
+  ],
+  "summary": "Interior 3D visualization for a single-story villa, with warm finishes, family spaces and views that connect the home to its garden.",
+  "cover": "/assets/projects/villa/005.webp",
+  "backHref": "../index.html#projects",
+  "backLabel": "← BACK TO SELECTED WORK",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/projects/villa/005.webp\" alt=\"3D interior visualization of the villa kitchen and dining area\" fetchpriority=\"high\"><figcaption><span>Kitchen + dining</span><span>Interior visualization</span></figcaption></figure><section class=\"project-copy\"><h2>INTERIOR VISUALIZATION</h2><p>Kitchen and dining, bedroom and bathroom views present the villa as a connected home. Warm wood, neutral finishes, layered lighting and garden views carry through the interior scenes.</p></section><div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/villa/006.webp\" alt=\"Master bedroom interior visualization\" loading=\"lazy\"><figcaption><span>Master bedroom</span><span>Garden connection</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/villa/008.webp\" alt=\"Bathroom interior visualization\" loading=\"lazy\"><figcaption><span>Bathroom</span><span>Material + lighting</span></figcaption></figure></div><figure class=\"project-media\"><img src=\"../assets/projects/villa/010.webp\" alt=\"Exterior pool and garden visualization for the single-story villa\" loading=\"lazy\"><figcaption><span>Pool + garden</span><span>Exterior view</span></figcaption></figure><a class=\"project-next\" href=\"mediheal.html\"><span>NEXT PROJECT</span><strong>Mediheal →</strong></a>",
+  "titleLines": [
+    "Single-Story",
+    "Villa Interior"
+  ]
+}

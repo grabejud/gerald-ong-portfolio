@@ -1,0 +1,23 @@
+{
+  "order": 17,
+  "slug": "samsung-liveloud",
+  "title": "LiveLoud Roadshow",
+  "directoryTitle": "Samsung LiveLoud",
+  "category": "Exhibitions & Experiential",
+  "kicker": "SAMSUNG · SINGAPORE · 2008",
+  "tags": [
+    "EVENT DESIGN",
+    "LAYOUT",
+    "PRODUCT DISPLAY"
+  ],
+  "summary": "A high-energy Samsung activation turning a compact Orchard Road footprint into a visible music and product environment.",
+  "cover": "/assets/projects/samsung/000.webp",
+  "backHref": "../index.html#projects",
+  "backLabel": "← BACK TO SELECTED WORK",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/projects/samsung/000.webp\" alt=\"Samsung LiveLoud roadshow at Takashimaya\" fetchpriority=\"high\"><figcaption><span>LiveLoud roadshow</span><span>Orchard Road · Takashimaya</span></figcaption></figure><section class=\"project-copy\"><h2>LAYOUT STRATEGY</h2><p>The 6 × 6 metre plan organizes a central stage and DJ console with handset display zones around the perimeter, keeping products legible from the surrounding public concourse.</p></section><div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/samsung/003.webp\" alt=\"Samsung music-edition phone display visualization\" loading=\"lazy\"><figcaption><span>Music-edition displays</span><span>3D visualization</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/samsung/005.webp?v=3\" alt=\"Samsung small showcase technical detail\" loading=\"lazy\"><figcaption><span>Small showcase</span><span>Production detailing</span></figcaption></figure></div><figure class=\"project-media\"><img src=\"../assets/projects/samsung/006.webp\" alt=\"Samsung large illuminated showcase detail\" loading=\"lazy\"><figcaption><span>Feature showcase</span><span>Illuminated display</span></figcaption></figure><a class=\"project-next\" href=\"lululemon.html\"><span>NEXT PROJECT</span><strong>Lululemon Singapore →</strong></a>",
+  "titleLines": [
+    "LiveLoud",
+    "Roadshow"
+  ]
+}

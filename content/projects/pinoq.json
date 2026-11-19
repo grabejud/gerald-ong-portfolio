@@ -1,0 +1,23 @@
+{
+  "order": 11,
+  "slug": "pinoq",
+  "title": "Pinoq Street Food Van",
+  "directoryTitle": "Pinoq Food Van",
+  "category": "Retail & Spatial",
+  "kicker": "CALIFORNIA · CONSIGNED CONCEPT · c. 2023",
+  "tags": [
+    "VEHICLE TRANSFORMATION",
+    "BRAND GRAPHICS",
+    "3D VISUALIZATION"
+  ],
+  "summary": "An existing van reimagined through Filipino-inspired illustration, cultural silhouettes and confident red-and-blue accents.",
+  "cover": "/assets/projects/pinoq/white-direction.webp",
+  "backHref": "../index.html#projects",
+  "backLabel": "← BACK TO SELECTED WORK",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/projects/pinoq/white-direction.webp\" alt=\"Selected white Pinoq Filipino street-food van design\" fetchpriority=\"high\"><figcaption><span>Selected white direction</span><span>Vehicle-wrap concept</span></figcaption></figure><section class=\"project-copy\"><h2>DESIGN RESPONSE</h2><p>The clean white base gives the illustrated identity a welcoming presence while allowing the Filipino-inspired artwork and service-side graphics to remain readable from a distance.</p></section><div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/pinoq/turquoise.webp\" alt=\"Turquoise Pinoq van color exploration\" loading=\"lazy\"><figcaption><span>Turquoise exploration</span><span>Early direction</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/pinoq/yellow.webp\" alt=\"Yellow Pinoq van color exploration\" loading=\"lazy\"><figcaption><span>Sunshine-yellow exploration</span><span>Early direction</span></figcaption></figure></div><figure class=\"project-media project-hero\"><img src=\"../assets/projects/pinoq/california-scene.webp\" alt=\"Pinoq food van operating at a California beach\" loading=\"lazy\"><figcaption><span>Street-service vision</span><span>California setting</span></figcaption></figure><a class=\"project-next\" href=\"penetron.html\"><span>NEXT PROJECT</span><strong>Penetron →</strong></a>",
+  "titleLines": [
+    "Pinoq",
+    "Street Food Van"
+  ]
+}

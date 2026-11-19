@@ -1,0 +1,22 @@
+{
+  "order": 20,
+  "slug": "digital-tools",
+  "title": "Digital Tools",
+  "directoryTitle": "Software, plugins & apps",
+  "category": "Digital Tools",
+  "kicker": "DIGITAL TOOLS · SOFTWARE · PLUGINS · APPS",
+  "tags": [
+    "SOFTWARE",
+    "PLUGINS",
+    "APPS"
+  ],
+  "summary": "A growing collection of software, plugins and apps developed to support creative workflows—from the first idea through visualization and delivery.",
+  "cover": "/assets/digital-tools-cover.svg",
+  "backHref": "../index.html#projects",
+  "backLabel": "← BACK TO PORTFOLIO DIRECTORY",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/digital-tools-cover.svg\" alt=\"Abstract interface artwork representing creative software, plugins and apps\" loading=\"eager\"></figure><section class=\"project-copy\"><h2>CREATIVE TECHNOLOGY</h2><p>This collection brings digital work into the portfolio alongside spatial design, exhibitions and water-feature projects. Each tool can be presented with its purpose, role, key features and the workflow it supports.</p></section><a class=\"project-next\" href=\"../index.html#projects\"><span>BACK TO THE PORTFOLIO</span><strong>Explore all projects →</strong></a>",
+  "titleLines": [
+    "Digital Tools"
+  ]
+}

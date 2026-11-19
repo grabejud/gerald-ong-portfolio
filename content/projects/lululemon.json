@@ -1,0 +1,23 @@
+{
+  "order": 9,
+  "slug": "lululemon",
+  "title": "Set Joy in Motion",
+  "directoryTitle": "Lululemon Singapore",
+  "category": "Retail & Spatial",
+  "kicker": "LULULEMON · SINGAPORE · 2022",
+  "tags": [
+    "EVENT DESIGN",
+    "MATERIAL SELECTION",
+    "FABRICATION GUIDANCE"
+  ],
+  "summary": "A festive green-and-gold public-space activation built around a vintage Kombi van and a clear, energetic retail journey.",
+  "cover": "/assets/projects/lululemon/000.webp",
+  "backHref": "../index.html#projects",
+  "backLabel": "← BACK TO SELECTED WORK",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/projects/lululemon/000.webp\" alt=\"Lululemon Set Joy in Motion concept visualization\" fetchpriority=\"high\"><figcaption><span>Overall concept</span><span>Raffles, Singapore</span></figcaption></figure><section class=\"project-copy\"><h2>DESIGN RESPONSE</h2><p>The van anchors the installation while existing structural columns become campaign beacons. Product discovery and visitor circulation are organized around a strong branded center without obstructing the busy concourse.</p></section><div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/lululemon/003.webp\" alt=\"Lululemon Kombi van display visualization\" loading=\"lazy\"><figcaption><span>Kombi centerpiece</span><span>Brand anchor</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/lululemon/005.webp\" alt=\"Built Lululemon event installation\" loading=\"lazy\"><figcaption><span>Completed activation</span><span>Built environment</span></figcaption></figure></div><figure class=\"project-media project-hero\"><img src=\"../assets/projects/lululemon/007.webp\" alt=\"Visitors at the completed Lululemon Singapore activation\" loading=\"lazy\"><figcaption><span>Public engagement</span><span>Retail concourse</span></figcaption></figure><a class=\"project-next\" href=\"singtel-f1.html\"><span>NEXT PROJECT</span><strong>SingTel F1 →</strong></a>",
+  "titleLines": [
+    "Set Joy",
+    "in Motion"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "order": 18,
+  "slug": "singtel-f1",
+  "title": "F1 Exhibition VivoCity",
+  "directoryTitle": "SingTel F1",
+  "category": "Exhibitions & Experiential",
+  "kicker": "SINGTEL · FORMULA 1 · SINGAPORE 2008",
+  "tags": [
+    "EXHIBITION DESIGN",
+    "3D VISUALIZATION",
+    "GRAPHICS"
+  ],
+  "summary": "An exhibition for Singapore's first Formula 1 night race, connecting motorsport excitement with SingTel's mobile and broadband experience.",
+  "cover": "/assets/projects/singtel-f1/000.webp",
+  "backHref": "../index.html#projects",
+  "backLabel": "← BACK TO SELECTED WORK",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/projects/singtel-f1/000.webp\" alt=\"SingTel F1 main exhibition visualization\" fetchpriority=\"high\"><figcaption><span>Main exhibition</span><span>Central F1 car + gaming zones</span></figcaption></figure><section class=\"project-copy\"><h2>THE EXPERIENCE</h2><p>A full-size Formula 1 car forms the central display. Gaming stations surround the attraction, while reception and account-registration areas connect visitor engagement with SingTel services.</p></section><div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/singtel-f1/001.webp\" alt=\"SingTel F1 retail activation view\" loading=\"lazy\"><figcaption><span>Brand environment</span><span>Display + registration</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/singtel-f1/003.webp\" alt=\"Crowd at SingTel F1 exhibition\" loading=\"lazy\"><figcaption><span>Live activation</span><span>Visitor engagement</span></figcaption></figure></div><a class=\"project-next\" href=\"spic.html\"><span>NEXT PROJECT</span><strong>Project Information Centre →</strong></a>",
+  "titleLines": [
+    "F1 Exhibition",
+    "VivoCity"
+  ]
+}
