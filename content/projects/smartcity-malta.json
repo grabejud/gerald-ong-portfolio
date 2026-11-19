@@ -1,0 +1,23 @@
+{
+  "order": 5,
+  "slug": "smartcity-malta",
+  "title": "Water, Light & Music",
+  "directoryTitle": "SmartCity Malta",
+  "category": "Water Features",
+  "kicker": "SMARTCITY MALTA · MUSICAL FOUNTAIN",
+  "tags": [
+    "CONCEPT DESIGN",
+    "3D VISUALIZATION",
+    "PROGRAMMER COORDINATION"
+  ],
+  "summary": "A landmark programmable musical fountain integrated within SmartCity Malta to create an immersive public gathering experience.",
+  "cover": "/assets/projects/smartcity-malta/000.webp",
+  "backHref": "../index.html#water",
+  "backLabel": "← BACK TO WATER FEATURES",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/projects/smartcity-malta/000.webp\" alt=\"Night visualization of SmartCity Malta musical fountain\" fetchpriority=\"high\"><figcaption><span>Night performance</span><span>Water + light visualization</span></figcaption></figure><section class=\"project-copy\"><h2>PROJECT ROLE</h2><p>Fountain concept and design, 3D visualization, water-effect planning, technical development, and coordination with the fountain programmer when synchronizing the performance with music.</p></section><figure class=\"project-media project-hero\"><img src=\"../assets/projects/smartcity-malta/002.webp\" alt=\"Aerial daytime visualization of the SmartCity Malta fountain\" loading=\"lazy\"><figcaption><span>Daytime context</span><span>Public-realm integration</span></figcaption></figure><div class=\"project-grid project-grid--three\"><figure class=\"project-media\"><img src=\"../assets/projects/smartcity-malta/006.webp\" alt=\"SmartCity Malta fountain performance sequence\" loading=\"lazy\"><figcaption><span>Show sequence 01</span><span>Programmable effects</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/smartcity-malta/008.webp\" alt=\"SmartCity Malta colored fountain sequence\" loading=\"lazy\"><figcaption><span>Show sequence 02</span><span>Color choreography</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/smartcity-malta/010.webp\" alt=\"SmartCity Malta fountain finale sequence\" loading=\"lazy\"><figcaption><span>Show sequence 03</span><span>Music synchronization</span></figcaption></figure></div><a class=\"project-next\" href=\"../index.html#work\"><span>RETURN TO</span><strong>Selected work →</strong></a>",
+  "titleLines": [
+    "Water, Light",
+    "& Music"
+  ]
+}

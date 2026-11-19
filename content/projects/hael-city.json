@@ -1,0 +1,23 @@
+{
+  "order": 3,
+  "slug": "hael-city",
+  "title": "A Family of Civic Fountains",
+  "directoryTitle": "Hael City",
+  "category": "Water Features",
+  "kicker": "HAEL CITY · MULTIPLE WATER FEATURES",
+  "tags": [
+    "CONCEPT DESIGN",
+    "PUBLIC REALM",
+    "WATER-EFFECT STUDIES"
+  ],
+  "summary": "Distinct compositions for different public spaces, united by a common design language of water, stone and light.",
+  "cover": "/assets/projects/hael/hero.webp",
+  "backHref": "../index.html#water",
+  "backLabel": "← BACK TO WATER FEATURES",
+  "gallery": [],
+  "body": "\r\n\r\n<figure class=\"project-media project-hero\"><img src=\"../assets/projects/hael/hero.webp\" alt=\"Aerial concept for a circular civic fountain and linear water channel in Hael City\" width=\"1536\" height=\"1024\" fetchpriority=\"high\"><figcaption><span>Family plaza view</span><span>Concept visualization</span></figcaption></figure>\r\n<section class=\"project-copy\"><h2>CONCEPT APPROACH</h2><p>Each location receives a composition suited to its scale, circulation and viewing distance. Circular landmarks, linear channels and changing jet profiles create variety, while shared materials, water quality and lighting establish continuity across Hael City.</p></section>\r\n<div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/hael/typology-sketches.webp\" alt=\"Hand-drawn studies of fountain typologies and water effects\" width=\"1182\" height=\"1330\" loading=\"lazy\"><figcaption><span>From sketch to typology</span><span>Early effect studies</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/hael/effect-palette.webp\" alt=\"Visual studies showing multiple fountain jet types and combinations\" width=\"1565\" height=\"1005\" loading=\"lazy\"><figcaption><span>Modular effect palette</span><span>Daytime studies</span></figcaption></figure></div>\r\n<section class=\"project-copy\"><h2>EFFECT PALETTE</h2><p>Studies explored central cascade groups, tall focal jets, parabolic arcs, fan jets, spherical water forms, vulcan effects and low foam jets. Each could be combined into a distinct identity without losing the project's common visual language.</p></section>\r\n<div class=\"project-break\"><p class=\"project-kicker\">LAYOUT + DAY-TO-NIGHT EXPERIENCE</p><h2>The long-form civic fountain.</h2></div>\r\n<figure class=\"project-media\"><img src=\"../assets/projects/hael/long-form-layout.webp\" alt=\"Plan, perspective and elevation study for a long-form Hael City civic fountain\" width=\"1685\" height=\"934\" loading=\"lazy\"><figcaption><span>Water arrangement</span><span>Plan · perspective · elevation</span></figcaption></figure>\r\n<section class=\"project-copy\"><h2>DESIGN ROLE</h2><p>Water-feature concept design included fountain typologies, jet combinations, basin relationships, visual hierarchy and day-to-night character, supported by clear design direction for later hydraulic and technical engineering coordination.</p></section>\r\n<figure class=\"project-media\"><img src=\"../assets/projects/hael/day-night-studies.webp\" alt=\"Day and night studies of eight fountain effect arrangements\" width=\"1536\" height=\"1024\" loading=\"lazy\"><figcaption><span>Effect matrix</span><span>Day + night identities</span></figcaption></figure>\r\n<a class=\"project-next\" href=\"konacik.html\"><span>NEXT PROJECT</span><strong>Konacik Shopping Mall →</strong></a>\r\n",
+  "titleLines": [
+    "A Family of",
+    "Civic Fountains"
+  ]
+}

@@ -1,8 +1,9 @@
-# Decap CMS draft configuration. GitHub OAuth must be configured before live login works.
 backend:
   name: github
   repo: grabejud/gerald-ong-portfolio
   branch: main
+  # After deploying an OAuth proxy, set base_url to its HTTPS origin and
+  # auth_endpoint to the route implemented by that proxy (usually "auth").
 
 local_backend: true
 media_folder: "assets/uploads"
@@ -10,20 +11,36 @@ public_folder: "/assets/uploads"
 
 collections:
   - name: "portfolio_projects"
-    label: "Portfolio Projects (CMS)"
+    label: "Portfolio Projects"
     label_singular: "Project"
     folder: "content/projects"
     create: true
-    extension: "md"
-    format: "frontmatter"
+    extension: "json"
+    format: "json"
     slug: "{{slug}}"
+    summary: "{{title}} · {{category}}"
+    sortable_fields: ["order", "title", "category"]
     fields:
+      - { label: "Display order", name: "order", widget: "number", value_type: "int", default: 100 }
+      - { label: "Page slug", name: "slug", widget: "string", hint: "Use lowercase letters and hyphens. Existing URLs are preserved." }
       - { label: "Project title", name: "title", widget: "string" }
+      - { label: "Title line breaks", name: "titleLines", widget: "list", required: false, field: { label: "Line", name: "line", widget: "string" }, hint: "Optional. Keep these lines matching the project title to preserve its original layout." }
+      - { label: "Directory title", name: "directoryTitle", widget: "string", required: false, hint: "Optional shorter label shown in the homepage project list." }
       - { label: "Category", name: "category", widget: "select", options: ["Water Features", "Retail & Spatial", "Exhibitions & Experiential", "Product Design", "Digital Tools"] }
-      - { label: "Year", name: "year", widget: "string", required: false }
-      - { label: "Location", name: "location", widget: "string", required: false }
+      - { label: "Project kicker", name: "kicker", widget: "string", required: false }
+      - { label: "Project tags", name: "tags", widget: "list", required: false, field: { label: "Tag", name: "tag", widget: "string" } }
+      - { label: "Short description", name: "summary", widget: "text" }
       - { label: "Cover image", name: "cover", widget: "image", required: false }
-      - { label: "Gallery", name: "gallery", widget: "list", required: false, field: { label: "Image", name: "image", widget: "image" } }
-      - { label: "Featured", name: "featured", widget: "boolean", default: false }
-      - { label: "Published", name: "published", widget: "boolean", default: false }
-      - { label: "Project description", name: "body", widget: "markdown", required: false }
+      - label: "Additional gallery images"
+        name: "gallery"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Alt text", name: "alt", widget: "string" }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+          - { label: "Detail", name: "detail", widget: "string", required: false }
+      - { label: "Project content", name: "body", widget: "markdown", required: false }
+      - { label: "Published", name: "published", widget: "boolean", default: true }
+      - { label: "Back link URL", name: "backHref", widget: "string", required: false }
+      - { label: "Back link label", name: "backLabel", widget: "string", required: false }

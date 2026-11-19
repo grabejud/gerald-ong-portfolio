@@ -1,7 +1,5 @@
-# Portfolio CMS content
+# Portfolio project records
 
-This folder will hold editable project records for Decap CMS.
+Each JSON file is managed by Decap CMS and generates the matching page in `projects/` plus its entry in the homepage directory. Keep `slug` aligned with the filename so existing project URLs remain stable. The existing page-specific HTML is retained in the `body` field; use the title, category, summary, cover, tags, and gallery fields for routine content changes.
 
-IMPORTANT: The current portfolio site uses hand-authored HTML pages in `projects/` and a hardcoded homepage `index.html`. CMS records are not yet connected to those pages. Do not publish new projects expecting them to appear on the live site until a rendering/build integration is completed.
-
-Next: inventory existing project pages and images, migrate content while preserving markup and styling, generate project pages and directory from content, and test local preview. Configure GitHub OAuth through a trusted authentication provider before using live /admin. Never commit OAuth client secrets.
+The global upload folder is `assets/uploads`. Existing project artwork remains in its current asset folders. GitHub Pages has a 1 GB published-site limit; the current image assets total about 15 MB.

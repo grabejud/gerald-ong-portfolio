@@ -1,0 +1,23 @@
+{
+  "order": 4,
+  "slug": "konacik",
+  "title": "Konacik Shopping Mall",
+  "directoryTitle": "Konacik Shopping Mall",
+  "category": "Water Features",
+  "kicker": "TURKEY · SHOPPING MALL WATER FEATURES",
+  "tags": [
+    "CONCEPT DESIGN",
+    "INTERIOR WATER",
+    "PROGRAMMABLE SHOW FOUNTAIN"
+  ],
+  "summary": "Two moods of water: calm interior fountains supporting the retail environment and an outdoor musical fountain creating destination-scale spectacle.",
+  "cover": "/assets/projects/konacik/interior-tiered.webp",
+  "backHref": "../index.html#water",
+  "backLabel": "← BACK TO WATER FEATURES",
+  "gallery": [],
+  "body": "\r\n\r\n<div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/konacik/interior-tiered.webp\" alt=\"Tiered black-stone interior fountain inside Konacik Shopping Mall\" width=\"1536\" height=\"1024\" fetchpriority=\"high\"><figcaption><span>Indoor fountain</span><span>Tiered cascade</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/konacik/exterior-show.webp\" alt=\"Night concept for the outdoor programmable musical fountain\" width=\"1536\" height=\"1024\" fetchpriority=\"high\"><figcaption><span>Outdoor fountain</span><span>Programmable show</span></figcaption></figure></div>\r\n<section class=\"project-copy\"><h2>DESIGN STRATEGY</h2><p>Interior features were conceived as restorative pauses within the retail journey, using controlled water movement, neutral illumination and dark stone. Outside, the experience shifts deliberately toward choreography, saturated light and public gathering.</p></section>\r\n<div class=\"project-break\"><p class=\"project-kicker\">A QUIETER RHYTHM INSIDE</p><h2>Water integrated into the retail journey.</h2></div>\r\n<figure class=\"project-media project-hero\"><img src=\"../assets/projects/konacik/interior-linear.webp\" alt=\"Long linear cascade and foam jets forming an interior mall water feature\" width=\"1536\" height=\"1024\" loading=\"lazy\"><figcaption><span>Linear foam-jet pool</span><span>Cascade edge + warm light</span></figcaption></figure>\r\n<div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/konacik/interior-escalator.webp\" alt=\"Linear fountain arranged alongside mall escalators\" width=\"1536\" height=\"1024\" loading=\"lazy\"><figcaption><span>Escalator-edge fountain</span><span>Circulation integration</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/konacik/interior-alt.webp\" alt=\"Alternate view of the tiered interior mall fountain\" width=\"1536\" height=\"1024\" loading=\"lazy\"><figcaption><span>Three-tier fountain</span><span>Retail environment</span></figcaption></figure></div>\r\n<section class=\"project-copy\"><h2>PROJECT ROLE</h2><p>Concept design covered fountain identities, water-effect selection, relative scale, day-to-night character and the relationship of each feature to mall circulation and public gathering areas.</p></section>\r\n<div class=\"project-break\"><p class=\"project-kicker\">THE PUBLIC FACADE</p><h2>A high-energy programmable show.</h2></div>\r\n<figure class=\"project-media project-hero\"><img src=\"../assets/projects/konacik/exterior-show.webp\" alt=\"Programmable exterior fountain with rotating jets and RGB lighting\" width=\"1536\" height=\"1024\" loading=\"lazy\"><figcaption><span>Exterior musical fountain</span><span>Rotating jets + RGB light</span></figcaption></figure>\r\n<a class=\"project-next\" href=\"suntec-fountain-of-wealth.html\"><span>BACK TO FIRST PROJECT</span><strong>Suntec Fountain of Wealth →</strong></a>\r\n",
+  "titleLines": [
+    "Konacik",
+    "Shopping Mall"
+  ]
+}

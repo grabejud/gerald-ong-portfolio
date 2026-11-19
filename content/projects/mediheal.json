@@ -1,0 +1,23 @@
+{
+  "order": 16,
+  "slug": "mediheal",
+  "title": "Beauty Around the World",
+  "directoryTitle": "Mediheal",
+  "category": "Exhibitions & Experiential",
+  "kicker": "MEDIHEAL · SINGAPORE · 2024–2026",
+  "tags": [
+    "3-YEAR PROGRAMME",
+    "EXHIBITION DESIGN",
+    "MODULAR FABRICATION"
+  ],
+  "summary": "A three-year evolution of a compact 3 × 3 metre booth, translating Mediheal's premium Korean showcase language into a practical Singapore format.",
+  "cover": "/assets/projects/mediheal/000.webp",
+  "backHref": "../index.html#projects",
+  "backLabel": "← BACK TO SELECTED WORK",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/projects/mediheal/000.webp\" alt=\"Built Mediheal exhibition booth\" fetchpriority=\"high\"><figcaption><span>Built exhibition</span><span>Singapore programme</span></figcaption></figure><section class=\"project-copy\"><h2>DESIGN STRATEGY</h2><p>Each edition balances strong brand presence, product education and visitor interaction with efficient fabrication, modular components and selective reuse.</p></section><div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/mediheal/001.webp\" alt=\"Mediheal booth concept visualization\" loading=\"lazy\"><figcaption><span>Booth development</span><span>Product education</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/mediheal/003.webp\" alt=\"Mediheal modular booth design\" loading=\"lazy\"><figcaption><span>Modular display</span><span>Compact layout</span></figcaption></figure></div><div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/mediheal/005.webp\" alt=\"Alternative Mediheal exhibition arrangement\" loading=\"lazy\"><figcaption><span>Programme evolution</span><span>Reusable system</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/mediheal/007.webp\" alt=\"Mediheal retail display concept\" loading=\"lazy\"><figcaption><span>Retail language</span><span>High-density product display</span></figcaption></figure></div><a class=\"project-next\" href=\"samsung-liveloud.html\"><span>NEXT PROJECT</span><strong>Samsung LiveLoud →</strong></a>",
+  "titleLines": [
+    "Beauty Around",
+    "the World"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "order": 12,
+  "slug": "penetron",
+  "title": "Product Visualization",
+  "directoryTitle": "Penetron",
+  "category": "Retail & Spatial",
+  "kicker": "PENETRON · CONSIGNED PROJECT · 2011",
+  "tags": [
+    "3D VISUALIZATION",
+    "APPLICATION STORYTELLING",
+    "PACKAGING IMAGERY"
+  ],
+  "summary": "Technical product renders translating specialist construction processes into immediate, readable scenes for labels and catalogue communication.",
+  "cover": "/assets/projects/penetron/cutaway.webp",
+  "backHref": "../index.html#projects",
+  "backLabel": "← BACK TO SELECTED WORK",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/projects/penetron/cutaway.webp\" alt=\"Technical cutaway visualization of Penetron waterproofing layers\" fetchpriority=\"high\"><figcaption><span>Technical cutaway</span><span>Waterproofing system</span></figcaption></figure><section class=\"project-copy\"><h2>VISUAL APPROACH</h2><p>Each image connects the product, installer and material performance in one frame. Clear staging, cutaway geometry and controlled color help non-specialist viewers understand where and how each system is applied.</p></section><div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/penetron/application.webp\" alt=\"Penetron seal-coat application visualization\" loading=\"lazy\"><figcaption><span>Seal coat</span><span>Surface application</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/penetron/grout.webp\" alt=\"Penetron grout installation visualization\" loading=\"lazy\"><figcaption><span>Grout</span><span>Precision base-plate application</span></figcaption></figure></div><a class=\"project-next\" href=\"house-renovation.html\"><span>NEXT PROJECT</span><strong>Family House Visualization →</strong></a>",
+  "titleLines": [
+    "Product",
+    "Visualization"
+  ]
+}

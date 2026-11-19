@@ -1,0 +1,23 @@
+{
+  "order": 13,
+  "slug": "house-renovation",
+  "title": "A Home Around Family Life",
+  "directoryTitle": "Family House Renovation",
+  "category": "Retail & Spatial",
+  "kicker": "PRIVATE RESIDENCE · 2018",
+  "tags": [
+    "3D MODELLING",
+    "INTERIOR VISUALIZATION",
+    "MATERIAL + LIGHTING"
+  ],
+  "summary": "A house-renovation visualization developed to communicate atmosphere, material character and everyday family use before construction.",
+  "cover": "/assets/projects/house-renovation/000.webp?v=3",
+  "backHref": "../index.html#projects",
+  "backLabel": "← BACK TO SELECTED WORK",
+  "gallery": [],
+  "body": "<figure class=\"project-media project-hero\"><img src=\"../assets/projects/house-renovation/000.webp?v=3\" alt=\"Family gathering in the visualized living room\" fetchpriority=\"high\"><figcaption><span>Living room</span><span>Shared family space</span></figcaption></figure><section class=\"project-copy\"><h2>VISUAL NARRATIVE</h2><p>The imagery goes beyond empty interiors, showing the family at home through scenes of eating, relaxing, studying, playing music and resting—so scale and atmosphere become immediately understandable.</p></section><div class=\"project-grid\"><figure class=\"project-media\"><img src=\"../assets/projects/house-renovation/001.webp?v=3\" alt=\"Family dining-room visualization\" loading=\"lazy\"><figcaption><span>Dining room</span><span>Everyday gathering</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/house-renovation/002.webp?v=3\" alt=\"Master-bedroom visualization\" loading=\"lazy\"><figcaption><span>Master bedroom</span><span>Warm evening light</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/house-renovation/003.webp?v=3\" alt=\"Boys bedroom visualization\" loading=\"lazy\"><figcaption><span>Boys' room</span><span>Study + rest</span></figcaption></figure><figure class=\"project-media\"><img src=\"../assets/projects/house-renovation/004.webp?v=3\" alt=\"Family music-room visualization\" loading=\"lazy\"><figcaption><span>Music room</span><span>Family activity</span></figcaption></figure></div><a class=\"project-next\" href=\"single-storey-villa.html\"><span>NEXT PROJECT</span><strong>Single-Storey Villa →</strong></a>",
+  "titleLines": [
+    "A Home Around",
+    "Family Life"
+  ]
+}
